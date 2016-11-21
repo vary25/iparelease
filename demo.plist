@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://m.game.sina.com.cn/Public/default/apple/sng.ipa</string>
+					<string>http://m.game.weibo.cn/Public/default/apple/sng.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://m.game.sina.com.cn/platform/Public/default/image/logo.png</string>
+					<string>http://m.game.weibo.cn/platform/Public/default/image/logo.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://m.game.sina.com.cn/platform/Public/default/image/logo.png</string>
+					<string>http://m.game.weibo.cn/platform/Public/default/image/logo.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
